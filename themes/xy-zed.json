@@ -1,19 +1,19 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "XY-Zed",
-  "author": "Daniel Zarifpour <z@rifpour.xyz>",
+  "name": "XY-Zed Sauronato",
+  "author": "David Alcalá",
   "themes": [
     {
-      "name": "XY-Zed",
+      "name": "XY-Zed Sauronato",
       "appearance": "dark",
       "style": {
         "border": "#ffffff20", // white (very transparent)
         "border.variant": "#ffffff20", // white (very transparent)
-        "border.focused": "#FF0000", // ?
-        "border.selected": "#FF0000", // ?
+        "border.focused": "#7de48620", // ?
+        "border.selected": "#7de48620", // ?
         // "border.transparent": "#00000000",
-        "border.transparent": "#FF0000",
-        "border.disabled": "#FF0000", // ?
+        "border.transparent": "#7de48620",
+        "border.disabled": "#7de48620", // ?
         "elevated_surface.background": "#1b1b1b", // black (secondary)
         "surface.background": "#1b1b1b", // black (secondary)
         "background": "#121212", // black (primary)
@@ -21,23 +21,23 @@
         "element.hover": "#7de48620", // green (lightest transparent)
         "element.active": "#7de48635", // green (mid transparent)
         "element.selected": "#7de48650", // green (darkest transparent)
-        "element.disabled": "#FF0000", // ?
+        "element.disabled": "#7de48620", // ?
         "drop_target.background": "#7de48620",
         "ghost_element.background": "#00000000",
         "ghost_element.hover": "#7de48620", // green (lightest transparent)
         "ghost_element.active": "#7de48635", // green (mid transparent)
         "ghost_element.selected": "#7de48650", // green (darkest transparent)
-        "ghost_element.disabled": "#FF0000", // ?
+        "ghost_element.disabled": "#7de48620", // ?
         "text": "#f7f7f8ff", // white
         "text.muted": "#aca8aeff",
         "text.placeholder": "#6b6b73ff", // greyed out
         "text.disabled": "#6b6b73ff", // greyed out
         "text.accent": "#7de486ff", // green (accent)
         "icon": "#f7f7f8ff", // white
-        "icon.muted": "#FF0000",
+        "icon.muted": "#7de48620",
         "icon.disabled": "#6b6b73ff", // greyed out
-        "icon.placeholder": "#FF0000", // ?
-        "icon.accent": "#FF0000", // ?
+        "icon.placeholder": "#7de48620", // ?
+        "icon.accent": "#7de48620", // ?
         "status_bar.background": "#0a0a0a", // black (tertiary)
         "title_bar.background": "#0a0a0a", // black (tertiary)
         "toolbar.background": "#121212", // black (primary)
@@ -49,7 +49,7 @@
         // "panel.focused_border": null,
         "panel.focused_border": "FF0000", // ?
         "scrollbar.thumb.background": "#aca8ae30", // muted transparent
-        "scrollbar.thumb.hover_background": "#FF0000", // ?
+        "scrollbar.thumb.hover_background": "#7de48620", // ?
         "scrollbar.thumb.border": "#ffffff20", // white (very transparent)
         "scrollbar.track.background": "#1b1b1b80", // black (scondary, darkest transparent)
         "scrollbar.track.border": "#ffffff10", // white (lightest transparent)
@@ -62,7 +62,7 @@
         "editor.line_number": "#3b3b3b", // grey (faded)
         "editor.active_line_number": "#7de486ff", // green (accent)
         "editor.invisible": "#f7f7f810",
-        "editor.wrap_guide": "#FF0000", // ?
+        "editor.wrap_guide": "#7de48620", // ?
         "editor.active_wrap_guide": "#ffffff20", // white (very transparent)
         "editor.document_highlight.read_background": "#7de48625", // green (darker transparent)
         "editor.document_highlight.write_background": "#7de48670", // green (darkest transparent)
@@ -226,7 +226,7 @@
             "font_weight": 700
           },
           "enum": {
-            "color": "#FF0000", // ?
+            "color": "#7de48620", // ?
             "font_style": null,
             "font_weight": null
           },
@@ -236,7 +236,7 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#FF0000", // ?
+            "color": "#7de48620", // ?
             "font_style": null,
             "font_weight": 700
           },
@@ -246,7 +246,7 @@
             "font_weight": null
           },
           "label": {
-            "color": "#FF0000", // ?
+            "color": "#7de48620", // ?
             "font_style": null,
             "font_weight": null
           },
@@ -276,7 +276,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#FF0000", // ?
+            "color": "#7de48620", // ?
             "font_style": null,
             "font_weight": null
           },
@@ -291,7 +291,7 @@
             "font_weight": null
           },
           "punctuation": {
-            "color": "#FF0000", // ?
+            "color": "#7de48620", // ?
             "font_style": null,
             "font_weight": null
           },
@@ -371,7 +371,7 @@
             "font_weight": 600
           },
           "variant": {
-            "color": "#FF0000", // ?
+            "color": "#7de48620", // ?
             "font_style": null,
             "font_weight": null
           },

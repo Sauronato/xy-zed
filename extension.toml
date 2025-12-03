@@ -1,7 +1,7 @@
-id = "xy-zed"
-name = "XY-Zed Theme"
+id = "xy-zed-sauronato"
+name = "XY-Zed Theme Forked By Sauronato"
 version = "0.1.1"
 schema_version = 1
-authors = ["Daniel Zarifpour <z@rifpour.xyz>"]
+authors = ["Daniel Zarifpour <z@rifpour.xyz>", "David Alcalá"]
 description = "🐈‍⬛ A sleek and sophisticated dark theme with vibrant, intelligent syntax highlighting. Please report issues ➩"
-repository = "https://github.com/zarifpour/xy-zed"
+repository = "https://github.com/Sauronato/xy-zed"
